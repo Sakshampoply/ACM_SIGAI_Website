@@ -2,12 +2,35 @@ nav{
    background-color: #14213d;
 }
 
-.muj{
+.title{
 	padding: 10px;
 	margin-top: 10%;
 	text-align: center;
-   font-family: 'Montserrat', sans-serif;
    height: 100vh;
+/*   font-family: Poppins,Chewy,cursive,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";*/
+}
+
+.muj{
+   font-family: ;
+   color: #6c757d;
+}
+
+.acm{
+   color: white;
+}
+
+.sigai{
+   color: #8ecae6;
+}
+
+.s_chap{
+   color: #023047;
+}
+
+.logo{
+   height: 300px;
+   width: 300px;
+   padding: 30px;
 }
 
 .intro{
@@ -22,10 +45,11 @@ nav{
    margin-bottom: 7.5%;
    display: block;
    box-sizing: border-box;
+   position: relative;
 }
 
 body {
-   background-color: #ffffff;
+   background-color: #000000;
    background-position: center center;
    background-repeat: no-repeat;
    background-attachment: fixed;
